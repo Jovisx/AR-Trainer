@@ -36,3 +36,7 @@ Sponsor My app at top
 - [x] Charachter and Animation used are TOP
 - [ ] Add Sound of and motivator voice
 - [ ] Add new workout
+
+# APP
+
+ The size of the file/app is toooo big for upload if you need a copy contact me 
