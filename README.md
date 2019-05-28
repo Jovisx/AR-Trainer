@@ -23,3 +23,18 @@ Is divided into three macro categories:
 -Strengthening a part dedicated to anyone who wants to increase their muscle mass
 
 [DOWNLOAD NOW](https://itunes.apple.com/app/ar-trainer/id1203180467) AR TRAINER IS FREE!!!
+
+# Support
+
+Sponsor My app at top
+
+# Features
+
+- [x] Unity IAP (iOS & Android) enable
+- [x] Complete 1 week training
+- [x] Support Pedometro (only iOS)
+- [x] Beatifull Interface
+- [ ] Take Track of Progress (issues need help)
+- [x] Charachter and Animation used are TOP
+- [ ] Add Sound of and motivator voice
+- [ ] Add new workout
