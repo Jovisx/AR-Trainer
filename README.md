@@ -2,8 +2,6 @@
 
 The first app that allows you to do exercises from home.
 
-A 360 degree-view of exercise to understand the proceedings , simple and intuitive , all you need is a helmet for virtual reality and from home you can do all the exercises you want with a simple click.
-
 You're lazy you do not like to go out to go to the gym
 
 Now with AR Trainer you can do everything from home
@@ -11,7 +9,7 @@ Now with AR Trainer you can do everything from home
 It is the app for you.
 
 
-The app now contains more than 90 exercises that simply explain what to do.
+The app now contains more than 20 exercises that simply explain what to do.
 
 
 Is divided into three macro categories:
